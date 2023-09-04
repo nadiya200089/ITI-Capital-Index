@@ -1,0 +1,8 @@
+.partners__button-wrap {
+    display: inline-block;
+    position: absolute;
+    background-color: white;
+    top: 54px;
+    right: -30px;
+    z-index: 2;
+}

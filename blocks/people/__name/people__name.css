@@ -1,0 +1,10 @@
+.people__name {
+    width: 420px;
+    margin: 0px;
+    color: var(--black-text, #333);
+    font-family: 'LiterataR';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}

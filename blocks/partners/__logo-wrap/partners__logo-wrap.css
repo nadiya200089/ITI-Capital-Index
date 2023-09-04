@@ -1,0 +1,11 @@
+.partners__logo-wrap {
+    z-index: 1;
+    margin-left: 201px;
+    width: 1024px;
+    height: 164px;
+    overflow: hidden;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 80px;
+}

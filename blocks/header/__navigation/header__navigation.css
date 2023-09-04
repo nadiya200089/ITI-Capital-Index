@@ -1,0 +1,7 @@
+.header__navigation {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-left: 8px;
+    /* margin-bottom: 3px; */
+}

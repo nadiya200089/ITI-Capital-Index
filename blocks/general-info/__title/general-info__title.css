@@ -1,0 +1,12 @@
+.general-info__title {
+    font-family: 'Literata';
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+    text-align: center;
+    color: white;
+    /* z-index: 2; */
+    margin-top: 88px;
+    margin-bottom: 0px;
+}

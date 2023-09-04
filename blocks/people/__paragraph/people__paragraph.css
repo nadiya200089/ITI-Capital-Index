@@ -1,0 +1,12 @@
+.people__paragraph {
+    color: var(--reg-text, #656565);
+    margin: 0px;
+    width: 420px;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    margin-top: 13px;
+    margin-bottom: 9px;
+}

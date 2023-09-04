@@ -1,0 +1,10 @@
+.header__lang-item {
+    display: flex;
+    align-items: center;
+    border-radius: 70px;
+    border: 1px solid #979797;
+    background-color: #FFF;
+    padding: 4px;
+    margin-top: -2px;
+    margin-bottom: -2px;
+}

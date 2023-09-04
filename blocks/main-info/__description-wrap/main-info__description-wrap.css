@@ -1,0 +1,9 @@
+.main-info__description-wrap {
+    display: flex;
+    justify-content: flex-end;
+    align-items: start;
+    gap: 40px;
+    margin-top: 63px;
+    margin-right: 93px;
+    margin-bottom: 48px;
+}

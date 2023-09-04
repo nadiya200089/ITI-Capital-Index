@@ -1,0 +1,10 @@
+.header {
+    margin: 0 auto;
+    max-width: 1366px;
+    max-height: 140px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* gap: 20px; */
+}

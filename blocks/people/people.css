@@ -1,0 +1,9 @@
+.people {
+    width: 100%;
+    background-color: #FAFAFA;
+    display: inline-flex;
+    justify-content: center;
+    gap: 56px;
+    position: relative;
+    padding-bottom: 160px;
+}

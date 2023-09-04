@@ -1,0 +1,4 @@
+.news__left-column {
+    display: inline-flex;
+    flex-direction: column;
+}

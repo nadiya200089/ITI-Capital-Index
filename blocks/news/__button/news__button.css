@@ -1,0 +1,20 @@
+.news__button {
+    display: inline;
+    max-width: 206px;
+    max-height: 54px;
+    color: var(--reg-text, #656565);
+    background-color: #FFB800;
+    padding: 18px 11px 14px;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 3.36px;
+    text-transform: uppercase;
+    border: none;
+    align-self: flex-end;
+    margin-right: -28px;
+    margin-top: 20px;
+}

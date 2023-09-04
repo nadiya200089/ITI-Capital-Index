@@ -1,0 +1,27 @@
+.careers__card {
+    height: 340px;
+    box-sizing: border-box;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    padding: 40px;
+}
+
+.careers__card:nth-child(1) {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.careers__card:nth-child(2) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    border-left: 1px solid rgba(0, 0, 0, 0.08);
+
+}
+
+.careers__card:nth-child(4) {
+    grid-column-start: -1;
+    grid-column-end: -3;
+    border-left: 1px solid rgba(0, 0, 0, 0.08);    
+}

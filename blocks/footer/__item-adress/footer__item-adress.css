@@ -1,0 +1,9 @@
+.footer__item-adress {
+    margin: 0px;
+    color: var(--reg-text, #656565);
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+}

@@ -1,0 +1,7 @@
+.header__logo-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    justify-content: end;
+    align-items: start;
+}

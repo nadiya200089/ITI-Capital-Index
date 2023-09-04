@@ -1,0 +1,9 @@
+.header__lang {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 11px;
+    border-radius: 16px;
+    background: #F4F4F4;
+    cursor: pointer;
+}

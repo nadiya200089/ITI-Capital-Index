@@ -1,0 +1,6 @@
+.main-info__description-line {
+    display: flex;
+    width: 40px;
+    border-bottom: 1px solid red;
+    margin-top: 17px;
+}

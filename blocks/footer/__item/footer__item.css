@@ -1,0 +1,5 @@
+.footer__item {
+    display: flex;
+    flex-direction: column;
+    width: 426px;
+}

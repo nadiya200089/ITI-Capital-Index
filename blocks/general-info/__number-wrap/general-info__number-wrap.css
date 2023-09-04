@@ -1,0 +1,13 @@
+.general-info__number-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    /* width: 184px; */
+    height: 216px;
+    margin-top: -10px;
+}
+
+.general-info__number-wrap:nth-child(2) {
+    margin-right: 24px;
+}

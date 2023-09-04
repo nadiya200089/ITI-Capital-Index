@@ -1,0 +1,9 @@
+.people__card {
+    max-width: 484px;
+    display: inline-flex;
+    flex-direction: column; 
+    gap: 32.38px;
+    background-color: white;
+    padding: 0px 31.88px 31.62px 32.12px;
+}
+

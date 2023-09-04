@@ -1,0 +1,13 @@
+.news__item {
+    color: var(--black-text, #333);
+    font-family: 'Inter';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    margin-bottom: 16px;
+}
+
+.news__item:first-child {
+    margin-top: -5px;  
+}

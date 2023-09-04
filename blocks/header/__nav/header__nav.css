@@ -1,0 +1,9 @@
+.header__nav {
+    max-width: 636px;
+    display: flex;
+    justify-content: start;
+    gap: 32px;
+    align-items: center;
+    margin-bottom: 0px;
+    padding: 0px 20px 0px 20px;
+}

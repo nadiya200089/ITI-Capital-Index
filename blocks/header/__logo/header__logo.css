@@ -1,0 +1,7 @@
+.header__logo {
+    background-color: red;
+    padding: 41px 42px 40px;
+    display: flex;
+    gap: 16px;
+    border: 1px solid red;
+}

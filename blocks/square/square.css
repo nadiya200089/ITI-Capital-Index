@@ -1,0 +1,8 @@
+.square {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 0px;
+    margin-left: 83px;
+    margin-right: 83px;
+}

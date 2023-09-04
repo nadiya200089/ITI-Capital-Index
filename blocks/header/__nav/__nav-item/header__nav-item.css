@@ -1,0 +1,11 @@
+.header__nav-item {
+    color: var(--reg-text, #656565);
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    list-style: none;
+    padding-bottom: 20px;
+    cursor: pointer;
+}

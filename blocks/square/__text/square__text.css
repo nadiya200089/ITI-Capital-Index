@@ -1,0 +1,6 @@
+.square__text {
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    margin-bottom: 40px;
+}

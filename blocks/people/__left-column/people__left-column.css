@@ -1,0 +1,6 @@
+.people__left-column {
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 88px;
+}

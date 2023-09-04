@@ -1,0 +1,10 @@
+.сareers {
+    display: inline-grid;
+    grid-template-columns: 400px 224px 400px;
+    margin-left: 171px;
+    margin-right: 171px;
+    gap: 0px;
+    background-color: #FAFAFA;
+    border: none;
+}
+

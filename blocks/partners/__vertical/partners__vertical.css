@@ -1,0 +1,8 @@
+.partners__vertical {
+    position: absolute;
+    z-index: -1;
+    top: -54px;
+    right: 27px;
+    border-left: 1px solid rgba(0, 0, 0, 0.08);;
+    height: 164px;
+}

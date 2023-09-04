@@ -1,0 +1,12 @@
+.people__post {
+    width: 420px;
+    margin: 0;
+    color: var(--black-text, #333);
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    margin-top: 8.5px;
+    /* margin-bottom: 10px; */
+}

@@ -1,0 +1,13 @@
+.participants__title {
+    margin-top: 88px;
+    margin-bottom: 0px;
+    color: var(--reg-text, #656565);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 3.36px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,10 @@
+.header__nav-horizontal {
+    position: absolute;
+    z-index: -1;
+    top: 66px;
+    width: 636px;
+    height: 1px;
+    margin: 0;
+    border: none;
+    border-top: 1px solid #F2F2F2;
+}

@@ -1,0 +1,17 @@
+.general-info__description {
+    color: white;
+    text-align: center;
+    font-family: 'InterB';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    display: inline;
+    margin: 0px;
+    height: 38px;
+    margin-top: -65px;
+}
+
+.general-info__description:first-child {
+    margin-right: 98px;
+}

@@ -1,0 +1,30 @@
+.main-info__link {
+    color: var(--iti-capital-red, #EC231A);
+    font-family: 'Literata';
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.main-info__link:first-child {
+    color: var(--reg-text, #656565);
+}
+
+.main-info__link:not(:first-child ) {
+   border-bottom: 1px solid rgba(236, 35, 26, 0.16);
+}
+
+.main-info__link:nth-child(4) {
+    margin-top: 29px;
+    margin-left: 88px;
+}
+
+.main-info__link:nth-child(5) {
+    margin-top: 29px;
+}
+
+.main-info__link:nth-child(6) {
+    margin-top: 29px;
+    margin-right: 88px;
+}

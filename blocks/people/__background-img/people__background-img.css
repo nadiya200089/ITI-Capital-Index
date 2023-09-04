@@ -1,0 +1,6 @@
+.people__background-img {
+    position: absolute;
+    z-index: 1;
+    bottom: -60px;
+    right: 0;
+}
